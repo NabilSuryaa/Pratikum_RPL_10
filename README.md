@@ -4,6 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Decision%20Tree-F7931E?logo=scikitlearn&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
+<img width="1917" height="915" alt="Screenshot 2026-11-07 124916" src="https://github.com/user-attachments/assets/36e9146e-f769-46ed-bdd7-133b9b0f2890" />
 
 Aplikasi web sederhana untuk memprediksi apakah seorang mahasiswa **lulus tepat waktu** berdasarkan
 **IPK** dan **total SKS**. Model Machine Learning dilatih sekali, disimpan ke file `.pkl`, lalu dipakai
